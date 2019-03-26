@@ -11,10 +11,11 @@ body {
 	float: left;
 	margin: 1.66%;
 	border-radius: 15%;
+	transition: background 0.5s;
 }
 
 #container {
-	margin: 0 auto;
+	margin: 20px auto;
 	max-width: 600px;
 }
 
