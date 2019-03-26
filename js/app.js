@@ -51,6 +51,7 @@ reset.addEventListener("click", function() {
 	}
 	h1.style.backgroundColor = "steelblue";
 	reset.textContent = "New Colors";
+	messageDisplay.textContent = "";
 })
 
 colorDisplay.textContent = pickedColor;
